@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.tnsif.framework.CurrentAcc"/>
+    <fullyQualifiedTypeName name="com.tnsif.framework.SavingAcc"/>
+    <fullyQualifiedTypeName name="com.tnsif.framework.Bankfactory"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
+    <fullyQualifiedTypeName name="com.example.repository.userdemo.Userepo"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+    <fullyQualifiedTypeName name="com.example.Userdemo.entity.Users"/>
+    <fullyQualifiedTypeName name="com.example.Userdemo.Service.Userservice"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

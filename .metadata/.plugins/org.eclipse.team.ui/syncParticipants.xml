@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syncparticipants>
+<participant displayName="Git (Corejavaprogr...orejavaprogram)" id="org.eclipse.egit.ui.modelCompareParticipant" secondary_id="1728327637701">
+<data forceFetch="false" root="false">
+<org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS org.eclipse.team.ui.MODEL_PARTICIPANT_DESCRIPTION="Corejavaprogr...orejavaprogram" startupAction="none">&#x0A;<org.eclipse.team.ui.MODEL_PARTICIPANT_REFRESH_SCHEDULE org.eclipse.team.ui.CTX_REFRESHSCHEDULE_ENABLED="false" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_INTERVAL="3600" org.eclipse.team.ui.CTX_REFRESHSCHEDULE_RUNONCE="false"/>
+<org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS modelProviderId="org.eclipse.jdt.ui.modelProvider">&#x0A;<mappings>&#x0A;<resources resourcePath="/Corejavaprogram" resourceType="4"/>
+</mappings>
+</org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
+<org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS modelProviderId="org.eclipse.core.resources.modelProvider">&#x0A;<mappings>&#x0A;<resources resourcePath="/Corejavaprogram" resourceType="4"/>
+</mappings>
+</org.eclipse.team.ui.MODEL_PARTICIPANT_MAPPINGS>
+</org.eclipse.team.ui.MODEL_PARTICIPANT_SETTINGS>
+<gitSynchronizeData container="C:/Users/nirgu/git/Corejava/Corejavaprogram" dstRev="b4c953a9f33c96075bffbe16ddcd11ce58b38090" inludeLocal="true" srcRev="HEAD">&#x0A;<includedPaths>&#x0A;<path path="C:/Users/nirgu/git/Corejava/Corejavaprogram"/>
+</includedPaths>
+</gitSynchronizeData>
+</data>
+</participant>
+</syncparticipants>
